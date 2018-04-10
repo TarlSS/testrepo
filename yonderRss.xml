@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:ls="https://www.littlstar.com">
+  <channel>
+    <title>Yondr Video Feed</title>
+    <link>https://littlstar.com/yondr</link>
+    <description>This is a feed test for Yondr</description>
+    <category>Documentary</category>
+    <lastBuildDate></lastBuildDate>
+    <image>
+      <url>https://lsdn.littlstar.com/avatars/a2e0d23e1c4a7624461409f3511cc4a7dccac9a5.png?1494277727</url>
+      <title>The Banner Image</title>
+      <link>https://littlstar.com/yondr</link>
+    </image>
+    <item>
+      <title>Ruby, the fourth chocolate flavor - Stereo</title>
+      <link>https://ls-transnoder-videos.s3.amazonaws.com/74233f62-5999-42b5-a7a6-1e31f1357bc1/vr_1509643681.mp4</link>
+      <guid>74233f62-5999-42b5-a7a6-1e31f1357bc1</guid>
+      <description>For 20 years Barry Callebaut Group has been optimizing the taste of a new fourth chocolate flavor and now it’s finally on point and ready to be tasted for the first time in history.</description>
+      <category>Documentary</category>
+      <ls:duration>130</ls:duration>
+      <ls:image>https://ls-prod-media.s3.amazonaws.com/banners/2e04d0817b0d4b4fa2d5e6fd9bc3e3e81cae403c.jpg?1508357243</ls:image>
+      <ls:content-type>360</ls:content-type>
+      <ls:content-layout>ou</ls:content-layout>
+    </item>
+    <item>
+      <title>Ruby, the fourth chocolate flavor</title>
+      <link>https://ls-transnoder-videos.s3.amazonaws.com/de858e8c-0f7b-4481-960c-c382d7f9ed03/vr_1509468848.mp4</link>
+      <guid>de858e8c-0f7b-4481-960c-c382d7f9ed03</guid>
+      <description>For 20 years Barry Callebaut Group has been optimizing the taste of a new fourth chocolate flavor and now it’s finally on point and ready to be tasted for the first time in history.</description>
+      <category>Documentary</category>
+      <ls:duration>130</ls:duration>
+      <ls:image>https://ls-prod-media.s3.amazonaws.com/banners/f9beca78da0a3bc4eff3f3e009103e03b4dc37c4.jpg?1509483209</ls:image>
+      <ls:content-type>360</ls:content-type>
+      <ls:content-layout>2d</ls:content-layout>
+    </item>
+  </channel>
+</rss>
